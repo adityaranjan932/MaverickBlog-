@@ -4,8 +4,8 @@ This repository hosts my personal blog built with HTML and CSS.
 
 Explore topics like mindfulness, travel, and technology. 
 
+Clone the repo and open index.html to start reading.
 
-Clone the repo and open index.html to start reading. 
 
 
 Contact: [adityaranjan932@gmail.com]
